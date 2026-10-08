@@ -1,0 +1,6 @@
+{
+  "name": "ColourWin Demo",
+  "description": "Mobile-first Colour Prediction Game simulation and demo platform using virtual credits with transparent odds and simulation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
